@@ -10,7 +10,13 @@ Gabriel Carvalho RM: 571381
 
 ## Visão Geral
 
-(pequeno resumo do projeto)
+O ChargeGrid Intelligence é uma plataforma inteligente de gerenciamento energético desenvolvida para otimizar operações de recarga em eletropostos comerciais, alinhada ao contexto do EV Challenge GoodWe 2026.
+
+A proposta surge diante do crescimento da mobilidade elétrica e dos desafios relacionados ao carregamento simultâneo de múltiplos veículos, que podem gerar sobrecarga elétrica, desperdício energético e aumento dos custos operacionais.
+
+A solução utiliza conceitos de Smart Charging, Internet das Coisas (IoT) e Inteligência Artificial, permitindo monitoramento em tempo real, distribuição dinâmica de potência e gerenciamento inteligente do consumo energético.
+
+Além dos benefícios operacionais, o projeto foi desenvolvido considerando princípios de sustentabilidade e energias renováveis, possibilitando integração futura com sistemas fotovoltaicos e tecnologias do ecossistema GoodWe. Dessa forma, o ChargeGrid Intelligence busca promover maior eficiência energética, redução de impactos ambientais e uma infraestrutura de recarga mais inteligente e sustentável.
 
 ## Problema
 
